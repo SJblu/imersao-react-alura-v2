@@ -4,27 +4,126 @@
     "description": "Teste os seus conhecimentos sobre alguns dos jogos clássicos desse console da Era Dourada dos vídeo games, o saudoso Super Nintendo",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://i.gifer.com/EeC4.gif",
+        "title": "Qual(is) habilidade(s) a clássica 'Peninha' do Super Mario World concede ao nosso herói?",
+        "description": "Começando de leve",
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Invencibilidade",
+          "Voo e dano por contato",
+          "Arremessar bolas de fogo",
+          "Te transforma em um balão"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://i.pinimg.com/originals/0f/74/63/0f7463a11037ede4e58792b3df34b474.gif",
+        "title": "Em Donkey Kong Country, qual o nome do personagem que faz uso de um boné vermelho e também é o fiel companheiro de aventuras do nosso querido Donkey?",
+        "description": "Jogo nostálgico demais!!",
+        "answer": 3,
+        "alternatives": [
+           "Dixie Kong",
+           "Cranky Kong",
+           "Funk Kong",
+           "Diddy Kong"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/4d56678a88efa4a05d53259acb83a35a/tumblr_pvotojELSm1qmh1j8o1_400.gifv",
+        "title": "No saudoso Megaman X, qual é o nome do ataque que absorvemos ao derrotar o Reploid 'chefão' Chill Penguin?",
+        "description": "Não é tão difícil hehe",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Shotgun Ice",
+           "Electric Spark",
+           "Homing Torpedo",
+           "Storm Tornado"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/53/1f/f1/531ff1b02254a4f259aa365da01f5dec.gif",
+        "title": "Qual a sequência de botões correta que a gente consiga soltar um Hadouken no grandioso 'Street Fighter 2'?",
+        "description": "'Dá hadouken Ryu!'",
+        "answer": 0,
+        "alternatives": [
+           "🡫 🡮 🡪 + SOCO",
+           "🡫 🡩 + CHUTE",
+           "🡨 🡯 🡫 🡮 🡪 + SOCO",
+           "SOCO FRACO + SOCO FRACO + CHUTE FRACO + 🡪 + SOCO FORTE"
+        ]
+      },
+      {
+        "image": "https://media3.giphy.com/media/PkCDv7CIK8d2M/giphy.gif",
+        "title": "No atemporal 'Chrono Trigger', qual é o tipo de elemento usado nas magias do nosso protagonista Crono?",
+        "description": "Melhor jogo!!",
+        "answer": 2,
+        "alternatives": [
+           "Água",
+           "Trevas",
+           "Luz",
+           "Fogo"
+        ]
+      },
+      {
+        "image": "https://hushcomics1.files.wordpress.com/2015/04/sub-zero-mk2-absolute-zero-fatality1.gif",
+        "title": "Na franquia 'Mortal Kombat', qual das opções NÃO é o nome de um movimento de finalização que o vencedor da luta pode executar no seu adversário?",
+        "description": "FINISH HIM ! ! ",
+        "answer": 3,
+        "alternatives": [
+          "Brutality",
+          "Friendship",
+          "Fatality",
+          "Lethality"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/99/76/7c/99767c2f84653020295e3083237a9fdc.gif",
+        "title": "Qual é o nome da badass protagonista do incrível 'Super Metroid'?",
+        "description": "Essa é só pra quem jogou",
+        "answer": 1,
+        "alternatives": [
+           "Peach Metroid",
+           "Samus Aran",
+           "Dixie Kong",
+           "Sonia Blade"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/14dad4d2ddcac7ed13e9246ae47ba100/tumblr_n46oxy76wX1swwwl4o6_r1_500.gifv",
+        "title": "O que acontece (na maioria das vezes) com o personagem Kirby quando ele 'engole' um de seus inimigos?",
+        "description": "'Poyo'",
+        "answer": 0,
+        "alternatives": [
+           "Absorve a habilidade do inimigo",
+           "Recupera parte da sua saúde",
+           "Restaura sua barra de magia",
+           "Revela segredos do cenário"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/a0/bb/d8/a0bbd84921e27e94954959fac2e58587.gif",
+        "title": "No saudoso 'Super Bomberman 3', qual era a espécie dos animais que podiam ser usados como montaria e possuiam habilidades únicas?",
+        "description": "Esse tinha um multiplayer impecável",
+        "answer": 1,
+        "alternatives": [
+           "Dinossauros",
+           "Tartarugas",
+           "Cavalos",
+           "Coelhos"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/6b/0b/b3/6b0bb362683e7452067f13884897f984.gif",
+        "title": "Qual é o nome dos personagens que fazem parte do nosso esquadrão no revolucionário 'Star Fox'?",
+        "description": "'Do a Barrel Roll'",
+        "answer": 0,
+        "alternatives": [
+           "Fox, Falco, Peppy e Slippy",
+           "Mario, Luigi, Bowser e Toad",
+           "Rash, Zitz, Pimple e T.Bird",
+           "Raphael, Michelangelo, Leonardo, Donatelo"
         ]
       }
+      
     ],
     "external": [
       ""
